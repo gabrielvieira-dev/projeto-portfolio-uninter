@@ -48,4 +48,3 @@ O projeto é composto por 4 páginas principais:
 
 ---
 
-## 📁 Estrutura de pastas
